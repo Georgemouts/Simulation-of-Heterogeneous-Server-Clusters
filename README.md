@@ -11,3 +11,9 @@ To answer this question we compare two routing algorithms in a network with 1 di
 ![alt text](https://github.com/Georgemouts/Simulation-of-Heterogeneous-Server-Clusters/blob/main/img/network.png "Network")
 
 ## Results
+
+![alt text](https://github.com/Georgemouts/Simulation-of-Heterogeneous-Server-Clusters/blob/main/img/wating_time.png " ")
+
+![alt text](https://github.com/Georgemouts/Simulation-of-Heterogeneous-Server-Clusters/blob/main/img/service_time.png " ")
+
+![alt text](https://github.com/Georgemouts/Simulation-of-Heterogeneous-Server-Clusters/blob/main/img/avg_total_utilization.png " ")
