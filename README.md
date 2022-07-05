@@ -8,3 +8,4 @@ To answer this question we compare two routing algorithms in a network with 1 di
 **average rate application service** , **average total node utilization** and **average utilization per node**
 
 ## Network Architecture
+![alt text](https://github.com/Georgemouts/Simulation-of-Heterogeneous-Server-Clusters/blob/main/img/network.png "Network")
