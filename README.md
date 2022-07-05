@@ -5,3 +5,5 @@ The purpose of this project is to understand how the distribution of client task
 
 ## Solution
 To answer this question we compare two routing algorithms in a network with 1 dispatcher and 9 servers-workers
+
+## Network Architecture
